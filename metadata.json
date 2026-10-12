@@ -1,0 +1,8 @@
+{
+  "name": "制剂药厂BI大屏数字孪生系统",
+  "description": "制剂药厂数字化运营与生产监控BI大屏系统，集成多系统数据（MES/WMS/SCADA/LIMS/EMS），支持园区4栋建筑联动、车间洁净度温湿度监控、200+台关键设备状态孪生与异常预警、方案推进与待办协同。",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
